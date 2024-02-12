@@ -11,6 +11,7 @@ A few facts about me:
 
 ### 🔗 Links 
 
+- [My CV](CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/martin-oxby)
 - [martinoxby.com](https://martinoxby.com)
 
