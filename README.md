@@ -16,3 +16,5 @@ A few facts about me:
 - [martinoxby.com](https://martinoxby.com)
 
 When I'm not coding, I very occassionally make _(terrible)_ music and upload it on [Bandcamp](https://playgroundmatador.bandcamp.com).
+
+**Note:** I am actively coding despite the lack of activity on my profile, but my most recent company uses Gitlab company accounts rather than Github!
