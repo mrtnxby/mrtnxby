@@ -10,8 +10,9 @@ A few facts about me:
 
 ### 🔗 Links 
 
-- [CV](cv.md)
+- [Markdown CV](cv.md)
+- [PDF CV](cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/martin-oxby)
 - [martinoxby.com](https://martinoxby.com)
 
-**Note:** I am actively coding despite the lack of activity on my profile, but my most recent company uses Gitlab company accounts rather than Github!
+**Note:** I am actively coding despite the lack of activity but my most recent company uses Gitlab company accounts rather than Github
