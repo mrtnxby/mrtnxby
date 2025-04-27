@@ -10,7 +10,7 @@ A few facts about me:
 
 ### 🔗 Links 
 
-- [CV](cv.pdf)
+- [CV](cv.md)
 - [LinkedIn](https://www.linkedin.com/in/martin-oxby)
 - [martinoxby.com](https://martinoxby.com)
 
