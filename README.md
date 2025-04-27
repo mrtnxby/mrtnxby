@@ -4,17 +4,14 @@
 
 A few facts about me:
 
-- I'm a self-taught software engineer based in London, UK 🇬🇧
-- I spent 8 years as a QA before getting a job as a dev 👨‍💻
-- I've worked for companies like [Zoa](https://www.zoa.io), [Bulb](https://www.linkedin.com/company/bulb-uk), [ABOUT YOU](https://www.aboutyou.com) and more
-- I once trained as a journalist, but it didn't quite work out... 🗞️
+- I'm a self-taught software engineer based in Lincoln, UK 🇬🇧
+- I spent the last 10 years working in QA/Software Engineer roles 👨🏻‍💻
+- I've worked for companies like [E.ON Next](https://www.eonnext.com/), [Zoa](https://www.zoa.io), [Bulb](https://www.linkedin.com/company/bulb-uk), [ABOUT YOU](https://www.aboutyou.com) and more
 
 ### 🔗 Links 
 
-- [My CV](CV.pdf)
+- [CV](cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/martin-oxby)
 - [martinoxby.com](https://martinoxby.com)
-
-When I'm not coding, I very occassionally make _(terrible)_ music and upload it on [Bandcamp](https://playgroundmatador.bandcamp.com).
 
 **Note:** I am actively coding despite the lack of activity on my profile, but my most recent company uses Gitlab company accounts rather than Github!
